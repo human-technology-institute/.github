@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.uts.edu.au/human-technology-institute">
-    <img src="images/logo.png" alt="Human Technology Institute Logo" width="600" height="100">
+    <img src="images/logo.png" alt="Human Technology Institute Logo" width="600" height="315">
   </a>
 </p>
 
